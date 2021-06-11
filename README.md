@@ -1,4 +1,5 @@
 [![Netlify Status](https://api.netlify.com/api/v1/badges/131857c2-0423-4de2-8753-cb1ecc461614/deploy-status)](https://app.netlify.com/sites/jf-redux-social/deploys)
+[Go to page](https://jf-redux-social.netlify.app)
 
 # Redux Essentials Tutorial Example
 
