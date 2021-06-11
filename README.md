@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/131857c2-0423-4de2-8753-cb1ecc461614/deploy-status)](https://app.netlify.com/sites/jf-redux-social/deploys)
+
 # Redux Essentials Tutorial Example
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
